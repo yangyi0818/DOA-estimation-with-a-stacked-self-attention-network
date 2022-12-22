@@ -42,12 +42,20 @@
 **```./run.sh --id 0 --stage 2```**
 
 ## Results
-** The average MAE (degree), Acc. (%), model parameters, and latency of the real-time implementation of the proposed system and the CNN-baseline [1] on SS condition of all test sets. (E_theta = 15 degree).**
+**The average MAE (degree), Acc. (%), model parameters, and latency of the real-time implementation of the proposed system and the CNN-baseline [1] on SS condition of all simulated test sets. (E_theta = 15 degree).**
 
 |**Measure** |**MAE** |**Acc.**|**Parameters**|**Latency**|
 | :-----     | :----: | :----: | :----:       | :----:    |
 |**CNN [1]** |3.6     |99.3    |8.7M          |14 ms      |
 |**Proposed**|2.9     |99.5    |282k          |6.25 ms    |
+
+**The average MAE (degree) and Acc. (%) of the off-line and real-time implementations of the proposed system for each overlap condition on all simulated test sets. (E_theta = 15 degree).**
+
+|**Overlap condition**|**SS**  |**SS**  |**IO**  |**IO**  |**PO**  |**PO**  |
+| :-----              | :----: | :----: | :----: | :----: | :----: | :----: |
+|**Measure**          |**MAE** |**Acc.**|**MAE** |**Acc.**|**MAE** |**Acc.**|
+|**Off-line**         |4.3     |97.4    |8.3     |88.8    |7.2     |91.1    |
+|**Real-time**        |5.2     |95.8    |8.6     |86.5    |9.0     |84.6    |
 
 [Paper]: https://doi.org/10.1121/10.0016467
 [sms_wsj]: https://github.com/fgnt/sms_wsj
