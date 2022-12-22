@@ -59,7 +59,13 @@
 
 **An attention map of an example speech utterance (room dimension = 7.0 m × 6.0 m × 3.2 m, RT60 = 400 ms, SNR = 20 dB, SIR = 0dB). The ground-truth and estimated azimuths for the target speaker (speaker A) are 1.6 degree and 2.3 degree, respectively. The ground-truth azimuth for the interference speaker (speaker B) is 125.6 degree. The horizontal and vertical axes represent the frame index of interest and the frames to which it attends. The log power spectrums of the input mixture, reverberated utterances of speaker A and speaker B are also attached on the top and left, respectively.**
 
+![image](https://github.com/yangyi0818/DOA-estimation-with-a-stacked-self-attention-network/blob/main/figures/attention-map.png)
+
 **The off-line and real-time 2-D DOA estimation curves for each overlap condition.**
+
+![image](https://github.com/yangyi0818/DOA-estimation-with-a-stacked-self-attention-network/blob/main/figures/real-time-curve-SS.png)
+![image](https://github.com/yangyi0818/DOA-estimation-with-a-stacked-self-attention-network/blob/main/figures/real-time-curve-IO.png)
+![image](https://github.com/yangyi0818/DOA-estimation-with-a-stacked-self-attention-network/blob/main/figures/real-time-curve-PO.png)
 
 [Paper]: https://doi.org/10.1121/10.0016467
 [sms_wsj]: https://github.com/fgnt/sms_wsj
