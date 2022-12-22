@@ -4,7 +4,7 @@
 **This paper has been accepted by *Journal of the Acoustical Society of America (JASA).***
 
 ## Contents 
-* **[DOA estimation](#doa estimation)**
+* **[DOA-estimation-with-a-stacked-self-attention-network](#doa-estimation-with-a-stacked-self-attention-network)**
   * **[Contents](#contents)**
   * **[Introduction](#introduction)**
   * **[Dataset](#dataset)**
