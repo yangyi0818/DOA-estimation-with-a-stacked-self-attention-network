@@ -29,6 +29,26 @@
 ## Requirement
 **Our script use [asteroid][asteroid] toolkit as the basic framework.**
 
+## Train
+**We recommend running to train end-to-end :**
+
+**```./run.sh --id 0,1,2,3```**
+
+**or :**
+
+**```./run.sh --id 0,1,2,3 --stage 1```**
+
+## Test
+**```./run.sh --id 0 --stage 2```**
+
+## Results
+** The average MAE (degree), Acc. (%), model parameters, and latency of the real-time implementation of the proposed system and the CNN-baseline [1] on SS condition of all test sets. (E_theta = 15 degree).**
+
+|**Measure** |**MAE** |**Acc.**|**Parameters**|**Latency**|
+| :-----     | :----: | :----: | :----:       | :----:    |
+|**CNN [1]** |3.6     |99.3    |8.7M          |14 ms      |
+|**Proposed**|2.9     |99.5    |282k          |6.25 ms    |
+
 [Paper]: https://doi.org/10.1121/10.0016467
 [sms_wsj]: https://github.com/fgnt/sms_wsj
 [asteroid]: https://github.com/asteroid-team/asteroid
