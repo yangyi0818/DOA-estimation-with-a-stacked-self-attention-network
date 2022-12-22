@@ -21,5 +21,10 @@
 ![image](https://github.com/yangyi0818/DOA-estimation-with-a-stacked-self-attention-network/blob/main/figures/model-architecture1.png)
 ![image](https://github.com/yangyi0818/DOA-estimation-with-a-stacked-self-attention-network/blob/main/figures/model-architecture2.png)
 
+## Dataset
+**We use [sms_wsj][sms_wsj] to generate room impulse responses (RIRs) set. ```sms_wsj/reverb/scenario.py``` and ```sms_wsj/database/create_rirs.py``` should be replaced by scripts in 'sms_wsj_replace' folder.**
+
+**use ```python generate_rir.py``` to generate training and valadation data**
 
 [Paper]: https://doi.org/10.1121/10.0016467
+[sms_wsj]: https://github.com/fgnt/sms_wsj
