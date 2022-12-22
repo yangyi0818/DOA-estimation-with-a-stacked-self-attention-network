@@ -26,5 +26,10 @@
 
 **use ```python generate_rir.py``` to generate training and valadation data**
 
+## Requirement
+**Our script use [asteroid][asteroid] toolkit as the basic framework.**
+
 [Paper]: https://doi.org/10.1121/10.0016467
 [sms_wsj]: https://github.com/fgnt/sms_wsj
+[asteroid]: https://github.com/asteroid-team/asteroid
+
