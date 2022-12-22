@@ -93,7 +93,7 @@ Cite our paper by:
 ## References
 [1] A. Kucuk, A. Ganguly, Y. Hao, and I. M. S. Panahi, "Real-time convolutional neural network-based speech source localization on smartphone," IEEE Access 7, 169969–169978 (2019).
 
-Please feel free to contact us if you have any questions.
+**Please feel free to contact us if you have any questions.**
 
 [Paper]: https://doi.org/10.1121/10.0016467
 [sms_wsj]: https://github.com/fgnt/sms_wsj
