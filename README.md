@@ -57,6 +57,10 @@
 |**Off-line**         |4.3     |97.4    |8.3     |88.8    |7.2     |91.1    |
 |**Real-time**        |5.2     |95.8    |8.6     |86.5    |9.0     |84.6    |
 
+**An attention map of an example speech utterance (room dimension = 7.0 m × 6.0 m × 3.2 m, RT60 = 400 ms, SNR = 20 dB, SIR = 0dB). The ground-truth and estimated azimuths for the target speaker (speaker A) are 1.6 degree and 2.3 degree, respectively. The ground-truth azimuth for the interference speaker (speaker B) is 125.6 degree. The horizontal and vertical axes represent the frame index of interest and the frames to which it attends. The log power spectrums of the input mixture, reverberated utterances of speaker A and speaker B are also attached on the top and left, respectively.**
+
+**The off-line and real-time 2-D DOA estimation curves for each overlap condition.**
+
 [Paper]: https://doi.org/10.1121/10.0016467
 [sms_wsj]: https://github.com/fgnt/sms_wsj
 [asteroid]: https://github.com/asteroid-team/asteroid
