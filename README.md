@@ -70,25 +70,25 @@
 ## Citation
 **Cite our paper by:**  
 
-**@article{yang2022stacked,  
+**@article{yang2022stacked,**  
 
-  title={A stacked self-attention network for two-dimensional direction-of-arrival estimation in hands-free speech communication},  
+  **title={A stacked self-attention network for two-dimensional direction-of-arrival estimation in hands-free speech communication},**  
   
-  author={Yang, Yi and Chen, Hangting and Zhang, Pengyuan},  
+  **author={Yang, Yi and Chen, Hangting and Zhang, Pengyuan},**  
   
-  journal={The Journal of the Acoustical Society of America},  
+  **journal={The Journal of the Acoustical Society of America},**  
   
-  volume={152},  
+  **volume={152},**  
   
-  number={6},  
+  **number={6},**  
   
-  pages={3444--3457},  
+  **pages={3444--3457},**  
   
-  year={2022},  
+  **year={2022},**  
   
-  publisher={Acoustical Society of America}  
+  **publisher={Acoustical Society of America}**  
   
-}**
+**}**
 
 ## References
 **[1] A. Kucuk, A. Ganguly, Y. Hao, and I. M. S. Panahi, "Real-time convolutional neural network-based speech source localization on smartphone," IEEE Access 7, 169969–169978 (2019).**
