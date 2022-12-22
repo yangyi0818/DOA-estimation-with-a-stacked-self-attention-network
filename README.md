@@ -27,7 +27,7 @@
 **use ```python generate_rir.py``` to generate training and valadation data**
 
 ## Requirement
-**Our script use [asteroid][asteroid] toolkit as the basic framework.**
+**Our script use [asteroid][asteroid] toolkit as the basic environment.**
 
 ## Train
 **We recommend running to train end-to-end :**
