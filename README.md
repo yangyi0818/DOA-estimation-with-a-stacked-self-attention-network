@@ -68,9 +68,9 @@
 ![image](https://github.com/yangyi0818/DOA-estimation-with-a-stacked-self-attention-network/blob/main/figures/real-time-curve-PO.png)
 
 ## Citation
-Cite our paper by:  
+**Cite our paper by:**  
 
-@article{yang2022stacked,  
+**@article{yang2022stacked,  
 
   title={A stacked self-attention network for two-dimensional direction-of-arrival estimation in hands-free speech communication},  
   
@@ -88,10 +88,10 @@ Cite our paper by:
   
   publisher={Acoustical Society of America}  
   
-}
+}**
 
 ## References
-[1] A. Kucuk, A. Ganguly, Y. Hao, and I. M. S. Panahi, "Real-time convolutional neural network-based speech source localization on smartphone," IEEE Access 7, 169969–169978 (2019).
+**[1] A. Kucuk, A. Ganguly, Y. Hao, and I. M. S. Panahi, "Real-time convolutional neural network-based speech source localization on smartphone," IEEE Access 7, 169969–169978 (2019).**
 
 **Please feel free to contact us if you have any questions.**
 
