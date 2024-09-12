@@ -1,7 +1,7 @@
 # DOA-estimation-with-a-stacked-self-attention-network
 **A stacked self-attention network for two-dimensional direction-of-arrival estimation in hands-free speech communication**
 
-**This work has been published on *Journal of the Acoustical Society of America (JASA).*  Available [here][Paper].**
+**This work has been published on *Journal of the Acoustical Society of America (JASA).*  The paper is available [here][Paper].**
 
 ## Contents 
 * **[DOA-estimation-with-a-stacked-self-attention-network](#doa-estimation-with-a-stacked-self-attention-network)**
